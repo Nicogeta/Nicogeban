@@ -1,0 +1,2 @@
+This plugin filter nicknames and kick players on join if there is a special character
+or a space character in the nickname.
